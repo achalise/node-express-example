@@ -1,0 +1,24 @@
+{
+  "name": "node-express-example",
+  "version": "1.0.0",
+  "description": "Step by step guide to implementing REST api for a todo application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achalise/node-express-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achalise/node-express-example/issues"
+  },
+  "homepage": "https://github.com/achalise/node-express-example#readme",
+  "devDependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.8"
+  }
+}
